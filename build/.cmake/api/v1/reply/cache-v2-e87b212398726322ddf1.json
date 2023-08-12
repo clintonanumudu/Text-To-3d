@@ -34,18 +34,6 @@
 			"value" : "C:/msys64/mingw64/bin/ar.exe"
 		},
 		{
-			"name" : "CMAKE_BACKWARDS_COMPATIBILITY",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "For backwards compatibility, what version of CMake commands and syntax should this version of CMake try to support."
-				}
-			],
-			"type" : "STRING",
-			"value" : "2.4"
-		},
-		{
 			"name" : "CMAKE_BUILD_TYPE",
 			"properties" : 
 			[
@@ -1298,30 +1286,6 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "EXECUTABLE_OUTPUT_PATH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Single output directory for building all executables."
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "LIBRARY_OUTPUT_PATH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Single output directory for building all libraries."
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
 			"name" : "TextTo3d_BINARY_DIR",
 			"properties" : 
 			[
@@ -2238,6 +2202,18 @@
 			"value" : "wxWidgets_CONFIG_EXECUTABLE-NOTFOUND"
 		},
 		{
+			"name" : "wxWidgets_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for wxWidgets."
+				}
+			],
+			"type" : "PATH",
+			"value" : "wxWidgets_DIR-NOTFOUND"
+		},
+		{
 			"name" : "wxWidgets_LIB_DIR",
 			"properties" : 
 			[
@@ -2248,6 +2224,18 @@
 			],
 			"type" : "PATH",
 			"value" : "wxWidgets_LIB_DIR-NOTFOUND"
+		},
+		{
+			"name" : "wxWidgets_wxrc_EXECUTABLE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Location of wxWidgets resource file compiler binary (wxrc)"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "wxWidgets_wxrc_EXECUTABLE-NOTFOUND"
 		}
 	],
 	"kind" : "cache",

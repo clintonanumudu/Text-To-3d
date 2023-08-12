@@ -25,6 +25,9 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-C.cmake"
   "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX.cmake"
   "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake"
+  "C:/msys64/mingw64/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+  "C:/msys64/mingw64/share/cmake/Modules/FindPackageMessage.cmake"
+  "C:/msys64/mingw64/share/cmake/Modules/FindwxWidgets.cmake"
   "C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-C-ABI.cmake"
   "C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-C.cmake"
   "C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
@@ -34,6 +37,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-windres.cmake"
   "C:/msys64/mingw64/share/cmake/Modules/Platform/Windows.cmake"
   "C:/msys64/mingw64/share/cmake/Modules/Platform/WindowsPaths.cmake"
+  "C:/msys64/mingw64/share/cmake/Modules/UsewxWidgets.cmake"
   )
 
 # The corresponding makefile is:

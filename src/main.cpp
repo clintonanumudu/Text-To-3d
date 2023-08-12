@@ -1,7 +1,7 @@
-#include <iostream>
+#include <wx/wx.h>
 
 int main() {
     int x;
-    std::cout << "Text To 3D Model.";
-    std::cin >> x;
+    std::cout << "Hello World.";
+    std::in >> x;
 }
