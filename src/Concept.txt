@@ -1,0 +1,13 @@
+So i got bored and came up with another software idea.
+The concept is simple. You type in one word.
+For example an animal like a tiger and the artificial intelligence will
+create a 3D model of a tiger.
+I would like to create it in C++ and have it be my first useful
+software made in C++. I still dont know what the point of C++ is when
+i can make software faster with Java, or maybe i don't want to step.
+We'll use wxWidgets to start because the first thing we want to do is
+always fetch a couple links of the object in question we want to create.
+We want to do it in VSCode too as i slowly want to make VSCode my all
+round IDE.
+
+First we want to display a window using wxWidgets in C++ in VS Code.

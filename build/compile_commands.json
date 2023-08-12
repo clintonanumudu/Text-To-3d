@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Anumudu/Documents/Clints Projects/Text To 3D Model/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\TextTo3d.dir\\src\\main.cpp.obj -c \"C:\\Users\\Anumudu\\Documents\\Clints Projects\\Text To 3D Model\\src\\main.cpp\"",
+  "file": "C:/Users/Anumudu/Documents/Clints Projects/Text To 3D Model/src/main.cpp",
+  "output": "CMakeFiles/TextTo3d.dir/src/main.cpp.obj"
+}
+]
