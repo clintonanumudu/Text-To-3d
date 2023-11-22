@@ -1,6 +1,6 @@
 # Text To 3D
 
-Name of the application pretty much says it all. An upcoming computer vision application designed to take a word and answers to some questions from the user and use this information to construct a 3D model for them.
+An upcoming computer vision application designed to take a word and answers to some questions from the user and use this information to construct a 3D model for them.
 
 It should be very user friendly and visually appealing.
 
